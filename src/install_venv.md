@@ -1,0 +1,1 @@
+py -m pip install scipy.io numpy matplotlib xarray
